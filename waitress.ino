@@ -1,13 +1,13 @@
 /*
- Automate your krups xn 2001 machine using esp8266
+ Automate your coffee machine using esp8266
  */
 
 #include <ESP8266WiFi.h>
 
 const char* ssid     = "YOUR WIFI SSID";
 const char* password = "YOURPASSWORD";
-const int NESPRESSO_POWER_BUTTON = 0;
-const int NESPRESSO_COFFEE_BUTTON = 2;
+const int POWER_BUTTON = 0;
+const int COFFEE_BUTTON = 2;
 
 const int PENDING_ACTION = 0;
 const int POWER_ACTION = 1;
@@ -21,10 +21,10 @@ WiFiServer server(80);
 void setup()
 {
     Serial.begin(115200);
-    pinMode(NESPRESSO_POWER_BUTTON, OUTPUT);
-    digitalWrite(NESPRESSO_POWER_BUTTON, HIGH);
-    pinMode(NESPRESSO_COFFEE_BUTTON, OUTPUT); 
-    digitalWrite(NESPRESSO_COFFEE_BUTTON, HIGH);
+    pinMode(POWER_BUTTON, OUTPUT);
+    digitalWrite(POWER_BUTTON, HIGH);
+    pinMode(COFFEE_BUTTON, OUTPUT); 
+    digitalWrite(COFFEE_BUTTON, HIGH);
     delay(10);
 
     // We start by connecting to a WiFi network
@@ -137,10 +137,10 @@ void waitress(const int waitressCurrentAction)
       Serial.end();
       switch(waitressCurrentAction){
         case POWER_ACTION:
-          pushButton(NESPRESSO_POWER_BUTTON);
+          pushButton(POWER_BUTTON);
           break;
         case COFFEE_ACTION:
-          pushButton(NESPRESSO_COFFEE_BUTTON);
+          pushButton(COFFEE_BUTTON);
           break;
         case SMALL_ACTION:
           serve(15000);
@@ -167,9 +167,9 @@ void pushButton(const int button)
 
 void serve(const int timetowait)
 {
-  pushButton(NESPRESSO_POWER_BUTTON);
+  pushButton(POWER_BUTTON);
   delay(75000);
-  pushButton(NESPRESSO_COFFEE_BUTTON);
+  pushButton(COFFEE_BUTTON);
   delay(timetowait);
-  pushButton(NESPRESSO_POWER_BUTTON);
+  pushButton(POWER_BUTTON);
 }
