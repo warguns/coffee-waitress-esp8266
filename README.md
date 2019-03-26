@@ -28,7 +28,7 @@ some female header pins:
 
 https://www.alibaba.com/product-detail/10-20-30-pins-female-pin_60652080710.html
 
-Soldering skills, and some protoshields.
+Soldering tools/skills, and some protoshields.
 
 Follow next manual to wire, ignore the PROGRAM_SW and RX Input part, we won't need it:
 
@@ -36,12 +36,12 @@ Follow next manual to wire, ignore the PROGRAM_SW and RX Input part, we won't ne
 
 SOME IMAGES:
 
+![shield connection](/docs/img/IMG_20190318_122755.jpg)
 
-![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122755.jpg?token=AC3KrE9M7Z7uz9j14YLkkKQjVIMt5urVks5cml5wwA%3D%3D)
-![button automation]()
-![button automation]()
-![button automation]()
-![button automation]()
+![soldering on the protoboard](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122807.jpg?token=AC3KrBLGLL1yK3U3Gt3PooTyUnFnuOLGks5cml7YwA%3D%3D)
+![top of the protoboard](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122823.jpg?token=AC3KrG4MRJ1j3-r7NEpe3L9ikNE94ze4ks5cml7uwA%3D%3D)
+![lateral protoboard](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122914.jpg?token=AC3KrMDT1kU0of3BPAsQLO7h4xwzPQDyks5cml86wA%3D%3D)
+![top protoboard without ESP](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122923.jpg?token=AC3KrC2KlPSAXeIsv0qfepF1si3RzPxlks5cml9nwA%3D%3D)
 
 ![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122945.jpg?token=AC3KrB8lhKDIlpIfJalVazE7wUeSKOf1ks5cmlw2wA%3D%3D)
 ![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_123112.jpg?token=AC3KrHaMIZiPvnxL5Se_uH0nNu7aBBJcks5cmlx5wA%3D%3D)
