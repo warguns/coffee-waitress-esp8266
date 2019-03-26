@@ -17,7 +17,10 @@ https://es.aliexpress.com/store/product/12V-1-way-road-relay-module-supports-low
 AC/DC:
 
 220 AC -> 3.3V DC: https://es.aliexpress.com/item/5pcs-TSP-03-replace-HLK-PM03-AC-DC-220V-to-3-3V-Step-Down-Buck-Power/32715513609.html
+
+
 220 AC -> 5V DC  : https://es.aliexpress.com/store/product/5PCS-TSP-05-replace-HLK-PM01-AC-DC-220V-to-5V-mini-power-supply-module-intelligent/1084082_32715485959.html?spm=a219c.search0604.3.16.467e596dsdVXOQ&ws_ab_test=searchweb0_0,searchweb201602_8_10065_10068_10547_319_10891_317_10548_10696_10084_453_454_10083_10618_10307_10820_10821_10301_10303_537_536_10902_10059_10884_10887_321_322_10103,searchweb201603_58,ppcSwitch_0&algo_expid=50df7632-88d8-4e94-bbde-b5fb8a2994bb-2&algo_pvid=50df7632-88d8-4e94-bbde-b5fb8a2994bb
+
 
 4 units of 3K3 Resistors
 
@@ -33,8 +36,9 @@ Follow next manual to wire, ignore the PROGRAM_SW and RX Input part, we won't ne
 
 SOME IMAGES:
 
-
-
+![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122945.jpg?token=AC3KrB8lhKDIlpIfJalVazE7wUeSKOf1ks5cmlw2wA%3D%3D)
+![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_123112.jpg?token=AC3KrHaMIZiPvnxL5Se_uH0nNu7aBBJcks5cmlx5wA%3D%3D)
+![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_123202.jpg?token=AC3KrO66Bv6nmbQ7g6djjQ-oQzZla9qWks5cmlySwA%3D%3D)
 
 MANY THANKS TO:
 
