@@ -38,14 +38,14 @@ SOME IMAGES:
 
 ![shield connection](/docs/img/IMG_20190318_122755.jpg)
 
-![soldering on the protoboard](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122807.jpg?token=AC3KrBLGLL1yK3U3Gt3PooTyUnFnuOLGks5cml7YwA%3D%3D)
-![top of the protoboard](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122823.jpg?token=AC3KrG4MRJ1j3-r7NEpe3L9ikNE94ze4ks5cml7uwA%3D%3D)
-![lateral protoboard](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122914.jpg?token=AC3KrMDT1kU0of3BPAsQLO7h4xwzPQDyks5cml86wA%3D%3D)
-![top protoboard without ESP](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122923.jpg?token=AC3KrC2KlPSAXeIsv0qfepF1si3RzPxlks5cml9nwA%3D%3D)
+![soldering on the protoboard](/docs/img/IMG_20190318_122807.jpg)
+![top of the protoboard](/docs/img/IMG_20190318_122823.jpg)
+![lateral protoboard](/docs/img/IMG_20190318_122914.jpg)
+![top protoboard without ESP](/docs/img/IMG_20190318_122923.jpg)
 
-![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122945.jpg?token=AC3KrB8lhKDIlpIfJalVazE7wUeSKOf1ks5cmlw2wA%3D%3D)
-![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_123112.jpg?token=AC3KrHaMIZiPvnxL5Se_uH0nNu7aBBJcks5cmlx5wA%3D%3D)
-![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_123202.jpg?token=AC3KrO66Bv6nmbQ7g6djjQ-oQzZla9qWks5cmlySwA%3D%3D)
+![button automation](/docs/img/IMG_20190318_122945.jpg)
+![button automation](/docs/img/IMG_20190318_123112.jpg)
+![button automation](/docs/img/IMG_20190318_123202.jpg)
 
 MANY THANKS TO:
 
