@@ -1,2 +1,3 @@
-# coffee-waitress-esp8266
-automate your coffee machine using an esp8266
+# Coffee Machine Waitress
+
+Automante your coffee machine using an ESP8266
