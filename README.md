@@ -36,6 +36,13 @@ Follow next manual to wire, ignore the PROGRAM_SW and RX Input part, we won't ne
 
 SOME IMAGES:
 
+
+![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122755.jpg?token=AC3KrE9M7Z7uz9j14YLkkKQjVIMt5urVks5cml5wwA%3D%3D)
+![button automation]()
+![button automation]()
+![button automation]()
+![button automation]()
+
 ![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_122945.jpg?token=AC3KrB8lhKDIlpIfJalVazE7wUeSKOf1ks5cmlw2wA%3D%3D)
 ![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_123112.jpg?token=AC3KrHaMIZiPvnxL5Se_uH0nNu7aBBJcks5cmlx5wA%3D%3D)
 ![button automation](https://raw.githubusercontent.com/warguns/coffee-waitress-esp8266/master/docs/img/IMG_20190318_123202.jpg?token=AC3KrO66Bv6nmbQ7g6djjQ-oQzZla9qWks5cmlySwA%3D%3D)
